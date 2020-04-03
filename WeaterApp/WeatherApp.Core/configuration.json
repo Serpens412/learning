@@ -1,0 +1,17 @@
+{
+    "ApplicationConfiguration": {
+        "NumberOfMinutesBeforeConfigurationUpdate": 5
+    },
+    "ClientConfigurations": [
+        {
+            "Name": "Openweathermap",
+            "Url": "https://api.openweathermap.org/data/2.5",
+            "Token": ""
+        },
+        {
+            "Name": "Weatherbit",
+            "Url": "https://api.weatherbit.io/v2.0/",
+            "Token": ""
+        }
+    ]
+}
